@@ -4,7 +4,13 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-.nav_header {
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+.logo_header {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -16,7 +22,6 @@ body {
 .header_menu {
     color: #2e2f42;
 }
-
 .list_one {
     font-weight: 500;
     font-size: 16px;
@@ -27,17 +32,17 @@ body {
 .list_one :hover {
     color: #404bbf;
 }
-list_one :focus {
+.list_one :focus {
     color: #404bbf;
 }
-list_two {
+.list_two {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-list_three {
+.list_three {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -46,14 +51,13 @@ list_three {
 }
 .address_header {
     font-style: normal;
+}
+.address_link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address_header :hover {
-    color: #404bbf;
-}
-.address_header :focus {
+.address_link:hover, .address_link:focus { 
     color: #404bbf;
 }
