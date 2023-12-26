@@ -78,6 +78,10 @@ cursor: pointer;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.parag_sec_two {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 /* Body section 3*/
 .sec_three {
     background-color: #F4F4FD;
@@ -91,6 +95,9 @@ cursor: pointer;
     color: #2e2f42;
 }
 .title_sec_three {
+    background-color: #FFFFFF;
+}
+.list_sec_three {
     background-color: #FFFFFF;
 }
 .human_sec_three {
