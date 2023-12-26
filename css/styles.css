@@ -48,6 +48,30 @@ ul, ol {
 .address_link:hover, .address_link:focus { 
     color: #404bbf;
 }
+/* Body section 1*/
+.sec_one {
+    background-color: #2e2f42;
+}
+title_sec_one {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button_sec_one {
+background-color: #4D5AE5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
+}
+.button_sec_one:hover, .button_sec_one:focus {
+    background-color: #404BBF;
+}
+/* Body section 2*/
+/* Body section 3*/
 /* Footer */
 footer {
     background-color: #2e2f42;
