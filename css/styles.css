@@ -52,7 +52,7 @@ ul, ol {
 .sec_one {
     background-color: #2e2f42;
 }
-title_sec_one {
+.title_sec_one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -71,6 +71,13 @@ cursor: pointer;
     background-color: #404BBF;
 }
 /* Body section 2*/
+.title_sec_two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 /* Body section 3*/
 /* Footer */
 footer {
