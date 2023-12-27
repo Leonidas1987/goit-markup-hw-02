@@ -10,7 +10,7 @@ a {
 ul, ol {
     list-style: none;
 }
-/* Header */
+/*===== Header =====*/
 .logo_header {
     font-family: Raleway, sans-serif;
     font-weight: 700;
@@ -48,7 +48,7 @@ ul, ol {
 .address_link:hover, .address_link:focus { 
     color: #404bbf;
 }
-/* Body section 1*/
+/*===== Body section 1 =====*/
 .sec_one {
     background-color: #2e2f42;
 }
@@ -70,7 +70,7 @@ cursor: pointer;
 .button_sec_one:hover, .button_sec_one:focus {
     background-color: #404BBF;
 }
-/* Body section 2*/
+/*===== Body section 2 =====*/
 .title_sec_two {
     font-weight: 500;
     font-size: 20px;
@@ -82,7 +82,7 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* Body section 3*/
+/*===== Body section 3 =====*/
 .sec_three {
     background-color: #F4F4FD;
 }
@@ -112,6 +112,29 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+/*===== Section 4 =====*/
+.title_sec_four {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sec_four_portfolio {
+    font-weight: 500;;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sec_four_par {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 /* Footer */
 footer {
     background-color: #2e2f42;
